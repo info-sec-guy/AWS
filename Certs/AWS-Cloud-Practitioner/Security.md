@@ -1,1 +1,1 @@
-
+**AWS Shared Responsibility Model:** Amazon Web Services (AWS) is responsible for the cloud (AWS), that includes physical security of data centers, hardware, software, and networking. Customers are responsible for security in the Cloud, protecting customer data and data encryption, Identity and Access Management (IAM), patching operating systems of virtual machines(VMs), and configuring firewalls.
