@@ -6,3 +6,5 @@
 3. Optimization
 4. Performance Efficiency
 5. Security
+
+**Least Privilege in AWS:** Use IAM to govern access, access can be granted to users, resources, and other AWS services. Determine what type of access a user needs in order to accomplish his work and craft policies to perform only those specific tasks.
