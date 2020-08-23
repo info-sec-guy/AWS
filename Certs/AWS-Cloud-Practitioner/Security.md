@@ -25,7 +25,7 @@
 3. Least Privilege
 
 **Secutiy Services**
-IAM: Permissions are global and any access setting will be true accross all regions. 
+- **IAM:** Permissions are global and any access setting will be true accross all regions. 
 
 - **Manage Users:** Create users in IAM and assign them security credentials, set very precise permissions, user access available through the AWS Management Console. Programmatic access is done through applications directly accessing resources instead of human interaction needed.  
 
