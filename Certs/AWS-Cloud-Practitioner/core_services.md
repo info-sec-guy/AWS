@@ -14,7 +14,7 @@
 
 **Availability Zones:** Data Centers around the world, independent of each other in network and power, almost 6 dozen AZs around the world. 
 
-**Regions:** Made up of two or more AZs, currently two dozen(24) regions around the world.
+**Regions:** Made up of two or more AZs, currently two dozen (24) regions around the world.
 
 ## Storage
 **Simple Storage Service (S3):**
