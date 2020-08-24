@@ -33,7 +33,7 @@
 
 - **Manage Federated Users:** Use an identity management solution using SAML 2.0 or an AWS federation to enable single sign-on (SSO) to your AWS accounts. 
 
-**AWS WAF :warning::** Layer 8 security that protects web applications running on AWS Cloud from common web exploits, firewall service for web applications, web traffic visibility, cost-effective, protects against web attacks, easy to deploy and maintain. 
+**AWS WAF :warning::** Layer 8 security that protects web applications running on AWS Cloud, protects from common web exploits, firewall service for web applications, provides web traffic visibility, cost-effective, protects against web attacks, easy to deploy and maintain. 
 
 **AWS Shield :shield::** Provides detection and automatic mitigations for layers 3 and 4, minimizes effects of DDoS attacks to your apps, helps minimize app downtime and latency when an attack happens. There are two tiers of AWS Shield - `Standard` and `Advanced`.
 - **Standard:** Enabled by defatult for free, protects web apps against majority of common DDoS attacks, great when you combine with CloudFront and Route 53.
