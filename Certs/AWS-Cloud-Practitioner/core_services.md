@@ -14,10 +14,18 @@
 
 **Availability Zones:** Data Centers around the world, independent of each other in network and power, almost 6 dozen AZs around the world. 
 
-**Regions:** Made up of two or more AZs, currently two dozen (24) regions around the world.
+**Regions:** Made up of two or more AZs, currently two dozen regions around the world.
+
+**High Availability:** 
+
+- High available resources may have duplicate copies in multiple AZs or even Regions
+- Resiliency: Ability to provide uninterrupted performance, even during natural disasters
+- Redundancy: Having multiple copies of the data in different data centers
+- Architect your AWS Cloud Infrastructure to protect against downtimes cause by natural disasters or power outages
+
 
 ## Storage
-**Simple Storage Service (S3):**
+**Simple Storage Service (S3):** Object storage service, storing each file as separate entity (object), high availability, security, and performance, scalable, charged only for what you used.
 
 **Elastic Block Store (EBS):**
 
