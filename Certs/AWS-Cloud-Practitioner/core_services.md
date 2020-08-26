@@ -54,4 +54,4 @@
 
 **Amazon Aurora:** Fully managed by RDS; no administration or provisioning necessary, relational databse, MySQL, and PostgreSQL compatible, no servers to provision or manage
 
-**Amazon Redshift:** Fully managed, petabyte-scale data warehouse service, fast, cheap stores extremely large amounts of data collected from a wide ranges of source to analyze
+**Amazon Redshift:** The most popular and fastest cloud data warehouse. Fully managed, petabyte-scale data warehouse service, fast, cheap stores extremely large amounts of data collected from a wide ranges of source to analyze
