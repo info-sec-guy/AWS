@@ -42,9 +42,9 @@
 - **Tape Gateway:** Uses existing tape-based backup infrastructure to back up to virtual tapes, data stored locally then asynchronous uploaded to S3, data can be archived using Amazon Glacier. 
 
 ## Database
-**DynamoDB:** NoSQL database, secure, scalable, 'serverless', no need to provision, manage, or update your own servers, automatically scales
+**DynamoDB:** NoSQL database, secure, scalable, serverless, no need to provision, manage, or update your own servers, automatically scales
 
-**Relational Database Service (RDS):** Relational database, AWS takes care of the provisioning, monitoring, and maintaining of the database. (NOTE: Existing database can be migrated using AWS Database Migration Service) Compatible with:
+**Relational Database Service (RDS):** Relational database, AWS takes care of the provisioning, monitoring, and maintaining of the database. Note: Existing database can be migrated using AWS Database Migration Service. Compatible with:
 * PostgreSQL
 * MariaDB
 * Oracle Database
