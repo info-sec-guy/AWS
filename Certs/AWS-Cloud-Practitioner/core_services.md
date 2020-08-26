@@ -34,8 +34,10 @@
 **Storage Gateway:** Hybrid cloud storage with local caching. A 'gate' that connects your onsite users and devices to resources stored in the AWS Cloud with minimal latency. 
 - **File Gateway:** An asynchronous configuration of the AWS Storage Gateway service that provides your applications a file interface to seamlessly store files as objects in Amazon S3, and access them using industry standard file protocols. Local cache to provide low-latency access to recently accessed files
 - **Volume Gateway:** Upload files in blocks (like virtual hard drives), asynchronous backed up as point-in-time snapshots and stored as Elastic Block Store snapshots. 
-                **Stored volume:** complete copy on-premise; sends snapshots to AWS
-                **Cached volume:** keep most recently accessed data on-premises; complete copy on AWS
+                
+     - ** Stored volume:** complete copy on-premise; sends snapshots to AWS
+     
+     - ** Cached volume:** keep most recently accessed data on-premises; complete copy on AWS
 
 
 
