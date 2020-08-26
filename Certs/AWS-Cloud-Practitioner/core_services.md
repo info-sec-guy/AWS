@@ -2,19 +2,19 @@
 
 ## Compute Services
 
-**Elastic Compute Cloud (EC2):** Virtual Server running on AWS, configurable by number of virtual CPUs, GBs of RAM, size/type of storage, and network speed. You only pay for what you use and when you use it, scalable.
+**Elastic Compute Cloud (EC2):** Virtual Server running on AWS, configurable by number of virtual CPUs, GBs of RAM, size/type of storage, and network speed. You only pay for what you use and when you use it, scalable
 
-**Elastic Beanstalk:** Deploy and scale web applications by uploading code, services deployed using Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker. It automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health monitoring. There is no additional charge for Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications.
+**Elastic Beanstalk:** Deploy and scale web applications by uploading code, services deployed using Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker. It automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health monitoring. There is no additional charge for Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications
 
-**Elastic Load Balancing:** Distributes incoming traffic across multiple replicated servers so one single server is not overloaded, fault-tolerant, scalable, secure, and monitor the health of servers.
+**Elastic Load Balancing:** Distributes incoming traffic across multiple replicated servers so one single server is not overloaded, fault-tolerant, scalable, secure, and monitor the health of servers
 
-**Lambda:** Run code (lambda function) in response to an event, automatically runs uploaded code and scales applications, and pay only for the compute time you consume and each event trigger. 
+**Lambda:** Run code (lambda function) in response to an event, automatically runs uploaded code and scales applications, and pay only for the compute time you consume and each event trigger
 
-**Lightsail:** Preconfigured and ready-to-use OS, web applications, and development stacks, scalable with your project's growth, cost-effective monthly fees, one-click-to-launch services. 
+**Lightsail:** Preconfigured and ready-to-use OS, web applications, and development stacks, scalable with your project's growth, cost-effective monthly fees, one-click-to-launch services
 
-**Availability Zones:** Data Centers around the world, independent of each other in network and power, almost 6 dozen AZs around the world. 
+**Availability Zones:** Data Centers around the world, independent of each other in network and power, almost 6 dozen AZs around the world
 
-**Regions:** Made up of two or more AZs, currently two dozen regions around the world.
+**Regions:** Made up of two or more AZs, currently two dozen regions around the world
 
 **High Availability:** 
 
@@ -25,21 +25,21 @@
 
 
 ## Storage
-**Simple Storage Service (S3):** Object storage service, storing each file as separate entity (object), high availability, security, and performance, scalable, charged only for what you used.
+**Simple Storage Service (S3):** Object storage service, storing each file as separate entity (object), high availability, security, and performance, scalable, charged only for what you used
 
-**Elastic Block Store (EBS):** External hard drive, block storage service, raw, unformatted block device attached to an EC2 instance, can add multiple EBS volumes to one EC2 instance, available as a file system or hard drive, dynamically change configurations to attached volumes via the AWS Console, automatically replicated within its Availability Zones, very similar to a zip file.
+**Elastic Block Store (EBS):** External hard drive, block storage service, raw, unformatted block device attached to an EC2 instance, can add multiple EBS volumes to one EC2 instance, available as a file system or hard drive, dynamically change configurations to attached volumes via the AWS Console, automatically replicated within its Availability Zones, very similar to a zip file
 
-**Snowball:** Data migration tool, hardware solution, AWS will physically ship you a Snowball to move your data onto and ship back, no transfer fee, only pay for S3 storage. 
+**Snowball:** Data migration tool, hardware solution, AWS will physically ship you a Snowball to move your data onto and ship back, no transfer fee, only pay for S3 storage
 
-**Storage Gateway:** Hybrid cloud storage with local caching. A 'gate' that connects your onsite users and devices to resources stored in the AWS Cloud with minimal latency. 
+**Storage Gateway:** Hybrid cloud storage with local caching. A 'gate' that connects your onsite users and devices to resources stored in the AWS Cloud with minimal latency
 - **File Gateway:** An asynchronous configuration of the AWS Storage Gateway service that provides your applications a file interface to seamlessly store files as objects in Amazon S3, and access them using industry standard file protocols. Local cache to provide low-latency access to recently accessed files
-- **Volume Gateway:** Upload files in blocks (like virtual hard drives), asynchronous backed up as point-in-time snapshots and stored as Elastic Block Store snapshots. 
+- **Volume Gateway:** Upload files in blocks (like virtual hard drives), asynchronous backed up as point-in-time snapshots and stored as Elastic Block Store snapshots 
                 
      - **Stored volume:** complete copy on-premise; sends snapshots to AWS
      
      - **Cached volume:** keep most recently accessed data on-premises; complete copy on AWS
 
-- **Tape Gateway:** Uses existing tape-based backup infrastructure to back up to virtual tapes, data stored locally then asynchronous uploaded to S3, data can be archived using Amazon Glacier. 
+- **Tape Gateway:** Uses existing tape-based backup infrastructure to back up to virtual tapes, data stored locally then asynchronous uploaded to S3, data can be archived using Amazon Glacier
 
 ## Database
 **DynamoDB:** NoSQL database, secure, scalable, serverless, no need to provision, manage, or update your own servers, automatically scales
@@ -52,7 +52,6 @@
 * Amazon Aurora
 * MySQL
 
+**Amazon Aurora:** Fully managed by RDS; no administration or provisioning necessary, relational databse, MySQL, and PostgreSQL compatible, no servers to provision or manage
 
-**Amazon Aurora:**
-
-**Amazon Redshift:**
+**Amazon Redshift:** Fully managed, petabyte-scale data warehouse service, fast, cheap stores extremely large amounts of data collected from a wide ranges of source to analyze
