@@ -36,6 +36,7 @@
 - **Volume Gateway:** Upload files in blocks (like virtual hard drives), asynchronous backed up as point-in-time snapshots and stored as Elastic Block Store snapshots. 
 
   o	**Stored volume:** complete copy on-premise; sends snapshots to AWS
+  
   o	**Cached volume:** keep most recently accessed data on-premises; complete copy on AWS
 
 
