@@ -45,12 +45,12 @@
 **DynamoDB:** NoSQL database, secure, scalable, 'serverless', no need to provision, manage, or update your own servers, automatically scales
 
 **Relational Database Service (RDS):** Relational database, AWS takes care of the provisioning, monitoring, and maintaining of the database. (NOTE: Existing database can be migrated using AWS Database Migration Service) Compatible with:
-•	PostgreSQL
-•	MariaDB
-•	Oracle Database
-•	Microsoft SQL Server
-•	Amazon Aurora
-•	MySQL
+* PostgreSQL
+* MariaDB
+* Oracle Database
+* Microsoft SQL Server
+* Amazon Aurora
+* MySQL
 
 
 **Amazon Aurora:**
