@@ -33,16 +33,16 @@
 
 **Storage Gateway:** Hybrid cloud storage with local caching. A 'gate' that connects your onsite users and devices to resources stored in the AWS Cloud with minimal latency
 - **File Gateway:** An asynchronous configuration of the AWS Storage Gateway service that provides your applications a file interface to seamlessly store files as objects in Amazon S3, and access them using industry standard file protocols. Local cache to provide low-latency access to recently accessed files
-- **Volume Gateway:** Upload files in blocks (like virtual hard drives), asynchronous backed up as point-in-time snapshots and stored as Elastic Block Store snapshots 
+- **Volume Gateway:** Upload files in blocks (like virtual hard drives), asynchronous backed up as point-in-time snapshots and stored as Elastic Block Store snapshots
                 
      - **Stored volume:** complete copy on-premise; sends snapshots to AWS
      
      - **Cached volume:** keep most recently accessed data on-premises; complete copy on AWS
 
-- **Tape Gateway:** Uses existing tape-based backup infrastructure to back up to virtual tapes, data stored locally then asynchronous uploaded to S3, data can be archived using Amazon Glacier
+- **Tape Gateway:** Uses existing tape-based backup infrastructure to back up to virtual tapes, data stored locally then asynchronous uploaded to S3, data can be archived using Amazon Glacier.
 
 ## Database
-**DynamoDB:** NoSQL database, secure, scalable, serverless, no need to provision, manage, or update your own servers, automatically scales
+**DynamoDB:** NoSQL database, secure, scalable, serverless, no need to provision, manage, or update your own servers, automatically scales.
 
 **Relational Database Service (RDS):** Relational database, AWS takes care of the provisioning, monitoring, and maintaining of the database. Note: Existing database can be migrated using AWS Database Migration Service. Compatible with:
 * PostgreSQL
@@ -52,6 +52,26 @@
 * Amazon Aurora
 * MySQL
 
-**Amazon Aurora:** Fully managed by RDS; no administration or provisioning necessary, relational databse, MySQL, and PostgreSQL compatible, no servers to provision or manage
+**Amazon Aurora:** Fully managed by RDS; no administration or provisioning necessary, relational databse, MySQL, and PostgreSQL compatible, no servers to provision or manage.
 
-**Amazon Redshift:** The most popular and fastest cloud data warehouse. Fully managed, petabyte-scale data warehouse service, fast, cheap stores extremely large amounts of data collected from a wide ranges of source to analyze
+**Amazon Redshift:** The most popular and fastest cloud data warehouse. Fully managed, petabyte-scale data warehouse service, fast, cheap stores extremely large amounts of data collected from a wide ranges of source to analyze.
+
+
+|Nonrelational Database (NoSQL)| Relational Database | 
+|------------------------------|---------------------|
+| DynamoDB                     | Amazon RDS          |  
+|                              | Amazon Aurora       |  
+
+
+## Network and Content Delivery
+**Virtual Private Cloud (VPC):** Logically isolated sections in the cloud to provision resources, flexible, secure, allowing you to control almost every aspect of your virtual network, VPC automatically provisioned at AWS account signup.
+
+**CloudFront:** Is a content delivery network, based on location of the user, origin of the website/application, location of the content delivery server, integrates with many AWS services to provide optimal performance and security. Makes loading websites/apps for end users faster using edge locations to cache files and resources. 
+
+*Note: A user is able to retrieve data faster through an Edge Location*
+
+|User                                          |Edge Locations                                  |Origin    | 
+|----------------------------------------------|------------------------------------------------|----------|
+|Download content from closest edge location   |Data center                                     |S3        |   
+|Faster download than going to origin server   |Caching of data                                 |EC2       |  
+|                                              |Downloads content for certain period of time    |ELB       | 
