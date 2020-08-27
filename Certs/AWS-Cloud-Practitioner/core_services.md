@@ -75,3 +75,10 @@
 |Download content from closest edge location   |Data center                                     |S3        |   
 |Faster download than going to origin server   |Caching of data                                 |EC2       |  
 |                                              |Downloads content for certain period of time    |ELB       | 
+
+**Route 53:** Highly scalable cloud Domain Name System (DNS), reliably and cost-effectively route end users to your internet applications, connect user requests to infrastructure running on AWS, route users to infrastructure outside of AWS and DNS service. Integrates with other AWS services, simple to set up, fast, secure, cost-effective, automatically scales to handle large query volumes. It's basic functions are:
+ * Domain Registration
+ * DNS
+ * Health check of web apps
+ * Auto Naming for service discovery
+ * Create websites/apps with high availability
