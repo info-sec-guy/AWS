@@ -13,7 +13,7 @@
 
 **Elastic Load Balancing:** Distributes incoming traffic across multiple replicated servers so one single server is not overloaded, fault-tolerant, scalable, secure, and monitor the health of servers
 
-**Lambda:** Run code (lambda function) in response to an event, automatically runs uploaded code and scales applications, and pay only for the compute time you consume and each event trigger
+**Lambda:** Run serverless code (lambda function) in response to an event, automatically runs uploaded code and scales applications, and pay only for the compute time you consume and each event trigger
 
 **Lightsail:** Preconfigured and ready-to-use OS, web applications, and development stacks, scalable with your project's growth, cost-effective monthly fees, one-click-to-launch services
 
