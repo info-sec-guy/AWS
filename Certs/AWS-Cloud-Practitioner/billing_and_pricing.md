@@ -10,7 +10,7 @@
 
 ## AWS Support Plans (BDBE)
 
-**Basic Support Plan:** 
+**Basic Support Plan:** :free:
 * Customer service limited to account and billing questions
 * AWS Community Forums 
 * Get access to 6 security checks (S3 Bucket Permissions, Security Groups - Specific Ports Unrestricted, IAM Use, MFA on Root Account, EBS Public Snapshots, RDS Public Snapshots) and 50 service limit checks.
