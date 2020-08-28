@@ -15,7 +15,7 @@
 
 **Lambda:** Run serverless code (lambda function) in response to an event, automatically runs uploaded code and scales applications, and pay only for the compute time you consume and each event trigger
 
-**Lightsail:** Preconfigured and ready-to-use OS, web applications, and development stacks, scalable with your project's growth, cost-effective monthly fees, one-click-to-launch services
+**Lightsail:** Preconfigured virtul servers, and ready-to-use OS, web applications, and development stacks, scalable with your project's growth, cost-effective monthly fees, one-click-to-launch services
 
 **Availability Zones:** Data Centers around the world, independent of each other in network and power, almost 6 dozen AZs around the world
 
