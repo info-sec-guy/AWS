@@ -14,6 +14,7 @@ This learning path is intended for individuals who are looking to build and vali
 * Available in English, Japanese, Korean, and Chinese
 * Online or at a testing facility
 * $100 USD
+* 70% passing grade
 
 ## External Resources
 [AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/)
