@@ -20,7 +20,7 @@
 * 12 hours for impaired systems
 * 24 hours for general guidance
 
-**BusinessPlan:** :moneybag::moneybag:
+**Business Plan:** :moneybag::moneybag:
 * Access AWS Support API for support case automation, retrieve detailed information about support operations and data types in JSON format
 
 **Enterprise Plan:** :moneybag::moneybag::moneybag:
