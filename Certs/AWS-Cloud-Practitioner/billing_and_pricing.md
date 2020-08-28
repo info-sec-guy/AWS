@@ -10,7 +10,7 @@
 * The more you do something the cheaper per unit that action becomes
 * Based on the following:
   * Compute
-  * Storate
+  * Storage
   * Outbound Data Transfer
 
 ## AWS Support Plans
