@@ -52,3 +52,7 @@
 | TAM & Support Concierge  | No    | No                                  | No                                      | Yes                                        |
 | Infrastructure Event Management | No | No                              | Yes (Extra Fee)                         | Yes                                        | 
 | Support Cases            | None  | 1 Person, Unlimited Cases           | Unlimited Contacts/Cases                | Unlimited Contacts/Cases                   |
+
+
+**AWS Links:**
+[Compare AWS Support Plans] (https://aws.amazon.com/premiumsupport/pl)
