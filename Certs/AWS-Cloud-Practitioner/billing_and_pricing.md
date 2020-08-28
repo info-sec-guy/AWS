@@ -16,7 +16,7 @@
 * Get access to 6 security checks (S3 Bucket Permissions, Security Groups - Specific Ports Unrestricted, IAM Use, MFA on Root Account, EBS Public Snapshots, RDS Public Snapshots) and 50 service limit checks.
 * AWS Personal Health Dashboard
 
-**Developer Plan:** :dollar:
+**Developer Plan:** :moneybag:
 * 12 hours for impaired systems
 * 24 hours for general guidance
 
