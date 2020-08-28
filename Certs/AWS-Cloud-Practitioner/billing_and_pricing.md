@@ -8,8 +8,9 @@
 * Enterprise
 
 
+## AWS Support Plans
 
-| First Header             | Basic |Developer                            | Business                                |Enterprise                                     |
+|                          | Basic |Developer                            | Business                                |Enterprise                                     |
 | -------------------------| ------|-------------------------------------| ----------------------------------------|-----------------------------------------------|
 | Cost                     | Free  | $29/mo                              | $100/mo                                 | $15,000/mo                                    |
 | Use Case                 |       | Testing Phase                       | Production                              | Production                                    |
