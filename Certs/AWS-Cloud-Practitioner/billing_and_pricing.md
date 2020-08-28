@@ -46,7 +46,7 @@
 |                          | Basic |Developer                            | Business                                |Enterprise                                    |
 | -------------------------| ------|-------------------------------------| ----------------------------------------|--------------------------------------------|
 | Cost                     | Free  | $29/mo                              | $100/mo                                 | $15,000/mo                                 |
-| Use Case                 |       | Testing Phase                       | Production                              | Production                                 |
+| Use Case                 |       | Testing Phase                       | Production                              | Critical workloads                         |
 | Tech Support             | No    | Business hours via e-mail           | 24x7 via email, chat & phone            | 24x7 via email, chat & phone               |
 | SLA                      |       | 12-24 hours at local business hours | 1 hour response to urgent support cases | 15min to critical support cases with priority |
 | TAM & Support Concierge  | No    | No                                  | No                                      | Yes                                        |
