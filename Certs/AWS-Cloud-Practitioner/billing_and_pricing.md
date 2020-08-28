@@ -10,6 +10,21 @@
 
 ## AWS Support Plans (BDBE)
 
+**Basic Support Plan:** 
+* Customer service limited to account and billing questions
+* AWS Community Forums 
+* Get access to 6 security checks (S3 Bucket Permissions, Security Groups - Specific Ports Unrestricted, IAM Use, MFA on Root Account, EBS Public Snapshots, RDS Public Snapshots) and 50 service limit checks.
+* AWS Personal Health Dashboard
+
+**Developer Plan:** 
+* 12 hours for impaired systems
+* 24 hours for general guidance
+
+**BusinessPlan:** 
+
+**Enterprise Plan:** 
+
+
 |                          | Basic |Developer                            | Business                                |Enterprise                                     |
 | -------------------------| ------|-------------------------------------| ----------------------------------------|-----------------------------------------------|
 | Cost                     | Free  | $29/mo                              | $100/mo                                 | $15,000/mo                                    |
