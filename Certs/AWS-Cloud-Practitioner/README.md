@@ -17,5 +17,5 @@ This learning path is intended for individuals who are looking to build and vali
 
 ## External Resources
 [AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[AWS Compliance Programs](https://aws.amazon.com/compliance/programs/)
+
 [Tutorials Dojo](https://portal.tutorialsdojo.com/)
