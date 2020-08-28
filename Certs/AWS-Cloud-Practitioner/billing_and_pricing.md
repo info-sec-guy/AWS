@@ -13,7 +13,7 @@
   * Storate
   * Outbound Data Transfer
 
-## AWS Support Plans (BDBE)
+## AWS Support Plans
 * Basic Support Plan 
 * Developer
 * Business
