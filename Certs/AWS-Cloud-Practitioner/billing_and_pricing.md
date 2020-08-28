@@ -1,4 +1,4 @@
-# Billling and Pricing
+# Billling and Pricing :credit_card:
 
 ## AWS Free Tier
 * Free
