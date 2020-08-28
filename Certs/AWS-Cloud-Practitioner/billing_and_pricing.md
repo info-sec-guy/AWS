@@ -5,7 +5,7 @@
 * 12 Months
 * Trials
 
-## Types of AWS Charges:
+## Types of AWS Charges
 * Different services charge differently
 * The more you do something the cheaper per unit that action becomes
 * Based on the following:
