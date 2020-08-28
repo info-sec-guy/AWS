@@ -49,6 +49,6 @@
 | Use Case                 |       | Testing Phase                       | Production                              | Production                                 |
 | Tech Support             | No    | Business hours via e-mail           | 24x7 via email, chat & phone            | 24x7 via email, chat & phone               |
 | SLA                      |       | 12-24 hours at local business hours | 1 hour response to urgent support cases | 15min to critical support cases with priority |
-| TAM & Support Concierge  | No    | No                                  | Yes                                     | Yes                                        |
+| TAM & Support Concierge  | No    | No                                  | No                                      | Yes                                        |
 | Infrastructure Event Management | No | No                              | Yes (Extra Fee)                         | Yes                                        | 
 | Support Cases            | None  | 1 Person, Unlimited Cases           | Unlimited Contacts/Cases                | Unlimited Contacts/Cases                   |
