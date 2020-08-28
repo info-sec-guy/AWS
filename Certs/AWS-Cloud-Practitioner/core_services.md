@@ -82,3 +82,13 @@
  * Health check of web apps
  * Auto Naming for service discovery
  * Create websites/apps with high availability
+
+
+## Management Tools
+**CloudFormation:** Are templates/recipes for resource deployment in AWS, provision and deploy fully configured infrastructure, and they're free to use, you only pay for resources used in the templates. Provision multi-region, multi-tier application quickly with a text file written in JSON/YAML. Update or manage the templates (stacks) using AWS Management Console, CLI, or Software Development Kit (SDK).
+
+**Infrastructure as Code:** Deploy IT infrastructure based on text file that specifies resources and configurations for each servvice being deployed. 
+
+**CloudTrail:** Monitoring and auditing of IT infrastructure for compliance, user activity/API usage tracking, and risk auditing. Log and monitor account activities and event history. Simplify compliance audits. Discover/troubleshoot security and operational issues. Provide visibility into user/resource activities, automatically respond to security threats. Track actions taken through AWS Management Console, SDKs, and CLI tools. Review logs using CloudTrail event history, and deliver reports to S3 buckets or CloudWatch logs and events. Logging of data events has small fees. 
+
+**CloudWatch:** Monitoring and management system for AWS infrastructure, negatively integrated with over 70 AWS services, gain system-wide visibility into resource utilization, application performance, and operational health. Get notifications in real time on data, metrics, and events. 
