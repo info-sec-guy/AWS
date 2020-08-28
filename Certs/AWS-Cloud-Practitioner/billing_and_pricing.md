@@ -8,3 +8,13 @@
 * Enterprise
 
 
+
+| First Header             | Basic |Developer                            | Business                                |Enterprise                                     |
+| -------------------------| ------|-------------------------------------| ----------------------------------------|-----------------------------------------------|
+| Cost                     | Free  | $29/mo                              | $100/mo                                 | $15,000/mo                                    |
+| Use Case                 |       | Testing Phase                       | Production                              | Production                                    |
+| Tech Support             | No    | Business hours via e-mail           | 24x7 via email, chat & phone            | 24x7 via email, chat & phone                  |
+| SLA                      |       | 12-24 hours at local business hours | 1 hour response to urgent support cases | 15min to critical support cases with priority |
+| TAM & Support Concierge  | No    | No                                  | Yes                                     | Yes                                           |
+| Infrastructure Event Management | No | No                              | Yes (extra fee)                         | Yes                                           | 
+| Support Cases            | None  | 1 Person, Unlimited Cases           | Unlimited contacts/cases                | Unlimited contacts/cases                      |
