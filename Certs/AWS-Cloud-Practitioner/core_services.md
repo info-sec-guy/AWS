@@ -34,7 +34,7 @@
 
 **Elastic Block Store (EBS):** External hard drive, block storage service, raw, unformatted block device attached to an EC2 instance, can add multiple EBS volumes to one EC2 instance, available as a file system or hard drive, dynamically change configurations to attached volumes via the AWS Console, automatically replicated within its Availability Zones, very similar to a zip file
 
-**Snowball:** Data migration tool, hardware solution, AWS will physically ship you a Snowball to move your data onto and ship back, no transfer fee, only pay for S3 storage
+**Snowball:** Data migration tool, hardware solution, AWS will physically ship you a Snowball (physical device) to move your data onto and ship back, no transfer fee, only pay for S3 storage
 
 **Storage Gateway:** Hybrid cloud storage with local caching. A 'gate' that connects your onsite users and devices to resources stored in the AWS Cloud with minimal latency
 - **File Gateway:** An asynchronous configuration of the AWS Storage Gateway service that provides your applications a file interface to seamlessly store files as objects in Amazon S3, and access them using industry standard file protocols. Local cache to provide low-latency access to recently accessed files
