@@ -1,4 +1,9 @@
 # AWS Core Services
+* Compute
+* Storage
+* Database
+* Network and content delivery
+* Management tools 
 
 ## Compute Services
 
@@ -92,3 +97,9 @@
 **CloudTrail:** Monitoring and auditing of IT infrastructure for compliance, user activity/API usage tracking, and risk auditing. Log and monitor account activities and event history. Simplify compliance audits. Discover/troubleshoot security and operational issues. Provide visibility into user/resource activities, automatically respond to security threats. Track actions taken through AWS Management Console, SDKs, and CLI tools. Review logs using CloudTrail event history, and deliver reports to S3 buckets or CloudWatch logs and events. Logging of data events has small fees. 
 
 **CloudWatch:** Monitoring and management system for AWS infrastructure, negatively integrated with over 70 AWS services, gain system-wide visibility into resource utilization, application performance, and operational health. Get notifications in real time on data, metrics, and events. 
+
+
+|CloudTrail   | CloudWatch           | 
+|-------------|----------------------|
+| Audits logs | Monitors             |  
+|             | Can react to changes |  
