@@ -16,14 +16,14 @@
 * Get access to 6 security checks (S3 Bucket Permissions, Security Groups - Specific Ports Unrestricted, IAM Use, MFA on Root Account, EBS Public Snapshots, RDS Public Snapshots) and 50 service limit checks.
 * AWS Personal Health Dashboard
 
-**Developer Plan:** 
+**Developer Plan:** :dollar:
 * 12 hours for impaired systems
 * 24 hours for general guidance
 
-**BusinessPlan:** 
+**BusinessPlan:** :dollar:
 * Access AWS Support API for support case automation, retrieve detailed information about support operations and data types in JSON format
 
-**Enterprise Plan:** 
+**Enterprise Plan:** :moneybag::moneybag::moneybag:
 * Technical Account Manager (TAM) for best-practice guidance
 * Support Concierge for account and billing analysis to save money
 * Well-Architected Reviews
