@@ -66,7 +66,7 @@
 ## Network and Content Delivery
 **Virtual Private Cloud (VPC):** Logically isolated sections in the cloud to provision resources, flexible, secure, allowing you to control almost every aspect of your virtual network, VPC automatically provisioned at AWS account signup.
 
-**CloudFront:** Is a content delivery network, based on location of the user, origin of the website/application, location of the content delivery server, integrates with many AWS services to provide optimal performance and security. Makes loading websites/apps for end users faster using edge locations to cache files and resources. 
+**CloudFront:** Is a content delivery network (CDN), based on location of the user, origin of the website/application, location of the content delivery server, integrates with many AWS services to provide optimal performance and security. Makes loading websites/apps for end users faster using edge locations to cache files and resources. 
 
 *Note: A user is able to retrieve data faster through an Edge Location*
 
