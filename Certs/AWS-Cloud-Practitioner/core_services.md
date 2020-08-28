@@ -30,7 +30,7 @@
 
 
 ## Storage
-**Simple Storage Service (S3):** Object storage service, storing each file as separate entity (object), high availability, security, and performance, scalable, charged only for what you used
+**Simple Storage Service (S3):** Object storage (files) service, storing each file as separate entity (object), high availability, security, and performance, scalable, charged only for what you used
 
 **Elastic Block Store (EBS):** External hard drive, block storage service, raw, unformatted block device attached to an EC2 instance, can add multiple EBS volumes to one EC2 instance, available as a file system or hard drive, dynamically change configurations to attached volumes via the AWS Console, automatically replicated within its Availability Zones, very similar to a zip file
 
