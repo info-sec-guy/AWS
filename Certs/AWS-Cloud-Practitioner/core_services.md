@@ -69,7 +69,7 @@
 
 
 ## Network and Content Delivery
-**Virtual Private Cloud (VPC):** Logically isolated sections in the cloud to provision resources, flexible, secure, allowing you to control almost every aspect of your virtual network, VPC automatically provisioned at AWS account signup.
+**Virtual Private Cloud (VPC):** A virtual private network, logically isolated sections in the cloud to provision resources, flexible, secure, allowing you to control almost every aspect of your virtual network, VPC automatically provisioned at AWS account signup.
 
 **CloudFront:** Is a content delivery network (CDN), based on location of the user, origin of the website/application, location of the content delivery server, integrates with many AWS services to provide optimal performance and security. Makes loading websites/apps for end users faster using edge locations to cache files and resources. 
 
@@ -81,7 +81,7 @@
 |Faster download than going to origin server   |Caching of data                                 |EC2       |  
 |                                              |Downloads content for certain period of time    |ELB       | 
 
-**Route 53:** Highly scalable cloud Domain Name System (DNS), reliably and cost-effectively route end users to your internet applications, connect user requests to infrastructure running on AWS, route users to infrastructure outside of AWS and DNS service. Integrates with other AWS services, simple to set up, fast, secure, cost-effective, automatically scales to handle large query volumes. It's basic functions are:
+**Route 53:** Routes domains to services and IP addresses, highly scalable cloud Domain Name System (DNS), reliably and cost-effectively route end users to your internet applications, connect user requests to infrastructure running on AWS, route users to infrastructure outside of AWS and DNS service. Integrates with other AWS services, simple to set up, fast, secure, cost-effective, automatically scales to handle large query volumes. It's basic functions are:
  * Domain Registration
  * DNS
  * Health check of web apps
