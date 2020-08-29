@@ -2,6 +2,8 @@
 
 **AWS Shared Responsibility Model:** Amazon Web Services (AWS) is responsible for security __of__ the cloud (AWS), that includes physical security of data centers, hardware, software, and networking. Customers are responsible for security __in__ the Cloud, protecting customer data, data encryption, Identity and Access Management (IAM), patching operating systems of virtual machines(VMs), and configuring firewalls.
 
+![Shared Responsibility Model](https://github.com/info-sec-guy/AWS/blob/master/Certs/AWS-Cloud-Practitioner/images/SRM.png)
+
 **The 5 Pillars of the AWS Well-Architected Framework (CROPS):**
 1. Cost Optimization
 2. Reliability
