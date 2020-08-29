@@ -26,13 +26,6 @@
   * Storage
   * Outbound Data Transfer
 
-**AWS Support Plans:**
-* Basic Support Plan 
-* Developer
-* Business
-* Enterprise
-
-
 ## AWS Support Plans (BDBE)
 
 **Basic Support Plan:** :free:
