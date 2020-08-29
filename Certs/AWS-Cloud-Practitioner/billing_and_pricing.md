@@ -2,11 +2,16 @@
 
 ## AWS Billing and Cost Management Console
 * Estimate and plan your AWS costs
-* `Consolidated billing` account for multiple AWS accounts within your organization
+* *Consolidated billing* account for multiple AWS accounts within your organization
 * Alert you when you're nearing usage thresholds, which could result in additional costs 
 * Use *Cost Explorer* to view costs as graphs
 * Sort by using Tags
 * Generate billing reports with breakdown of your costs by the hour, month, product, and or tags for your organization's billing needs 
+
+**Consolidated Billing:** 
+* One bill for multiple accounts
+* Easy tracking, you can track the charges across multiple accounts and download the combined cost and usage data
+* No extra free, offered at no additional cost 
 
 ## AWS Free Tier
 * Free
