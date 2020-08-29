@@ -1,5 +1,13 @@
 # Billling and Pricing :credit_card:
 
+## AWS Billing and Cost Management Console
+* Estimate and plan your AWS costs
+* Consolidated billing account for multiple AWS accounts within your organization
+* Alert you when you're nearing usage thresholds, which could result in additional costs 
+* Use *Cost Explorer* to view costs as graphs
+* Sort by using Tags
+* Generate billing reports with breakdown of your costs by the hour, month, product, and or tags for your organization's billing needs 
+
 ## AWS Free Tier
 * Free
 * 12 Months
