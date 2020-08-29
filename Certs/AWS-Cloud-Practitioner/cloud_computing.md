@@ -26,4 +26,5 @@ than IaaS.
 **Cloud Computing Deployments**
 * **Cloud Deployment:** 100% of IT infrastructure on the cloud, all apps migrated to or created in the cloud
 * **On-Premise/Private Cloud Deployment:** Use Virtualization to deploy resources in their on-premise data centers, looks like traditional IT infrastructure, resources cannot be accessed from the open internet
+* **Hybrid Cloud Deployment:** Data partially on the cloud, and partially in the on-premises data center, can use as backup and disaster recovery solution
 
