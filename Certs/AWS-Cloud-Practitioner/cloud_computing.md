@@ -1,4 +1,4 @@
-# Introduciton to Cloud Computing 
+# Introduciton to Cloud Computing :cloud::computer:
 
 **What is the Cloud?** The cloud is the internet, it's a global network of connected devices.
 
