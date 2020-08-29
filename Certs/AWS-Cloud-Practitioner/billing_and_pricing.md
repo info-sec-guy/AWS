@@ -21,10 +21,7 @@
 **Types of AWS Charges:**
 * Different services charge differently
 * The more you do something the cheaper per unit that action becomes
-* Based on the following:
-  * Compute
-  * Storage
-  * Outbound Data Transfer
+* Based on Compute, Storage, and Outbound Data Transfer
 
 ## AWS Support Plans (BDBE)
 
