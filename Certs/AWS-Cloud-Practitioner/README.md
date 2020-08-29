@@ -16,7 +16,7 @@ This learning path is intended for individuals who are looking to build and vali
 * $100 USD
 * 70% passing grade
 
-## External Resources
+## External Training Resources
 [AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 [Tutorials Dojo](https://portal.tutorialsdojo.com/)
