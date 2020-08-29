@@ -13,15 +13,18 @@
 * Easy tracking, you can track the charges across multiple accounts and download the combined cost and usage data
 * No extra free, offered at no additional cost 
 
-**AWS Free Tier:**
-* Free
-* 12 Months
-* Trials
+**AWS Free Tier:** Free, 12 Months, and Trials
 
 **Types of AWS Charges:**
 * Different services charge differently
 * The more you do something the cheaper per unit that action becomes
 * Based on Compute, Storage, and Outbound Data Transfer
+
+**Pay-As-You-Go Model Model:** No huge upfront costs, billed only for the resources consumed, easily scale resources up or down to suit business needs
+* Compute - Pay hourly from the time launched to termination, EC2 (Virtual Server) pay for the length of time the server is up and running 
+* Storage - S3 (Storage Service), upload photos into an app and pay for the storage used
+* Outbound Data Trasnfer - Pay to transfer data out of AWS, usually no charge for data into AWS or data transfers between other AWS services (between EC2 and S3) within the same region
+
 
 ## AWS Support Plans (BDBE)
 
@@ -46,7 +49,7 @@
 * Self-paced online training labs
 
 
-|                          | Basic |Developer                            | Business                                |Enterprise                                    |
+|                          | Basic |Developer                            | Business                                |Enterprise                                  |
 | -------------------------| ------|-------------------------------------| ----------------------------------------|--------------------------------------------|
 | Cost                     | Free  | $29/mo                              | $100/mo                                 | $15,000/mo                                 |
 | Use Case                 |       | Testing Phase                       | Production                              | Critical workloads                         |
