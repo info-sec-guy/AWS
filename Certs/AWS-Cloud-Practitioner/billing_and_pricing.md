@@ -13,12 +13,12 @@
 * Easy tracking, you can track the charges across multiple accounts and download the combined cost and usage data
 * No extra free, offered at no additional cost 
 
-## AWS Free Tier
+**AWS Free Tier:**
 * Free
 * 12 Months
 * Trials
 
-## Types of AWS Charges
+**Types of AWS Charges:**
 * Different services charge differently
 * The more you do something the cheaper per unit that action becomes
 * Based on the following:
@@ -26,7 +26,7 @@
   * Storage
   * Outbound Data Transfer
 
-## AWS Support Plans
+**AWS Support Plans:**
 * Basic Support Plan 
 * Developer
 * Business
