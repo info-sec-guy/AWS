@@ -13,8 +13,14 @@
 * **Go global in minutes** – Easily deploy your application in multiple regions around the world with just a few clicks. 
 
 **Cloud Computing Models** 
-* **IaaS(host):** Control over the networking, security, servers, closest to having traditional on-premises data center. Examples include AWS, Azure, and GCP. 
-* **PaaS(build):** Deploy and manage applications without worry of underlying hardware infrastructure, execute programming languages to host apps, less flexibility than IaaS.
-* **SaaS(consume):** Finished products, managed by the service provider, easy to use as end user. Least flexibility. Examplees include Outlook anf Gmail.
+**IaaS(host):** Control over the networking, security, servers, closest to having traditional on-premises data center. Examples include AWS, Azure, and GCP. 
+**PaaS(build):** Deploy and manage applications without worry of underlying hardware infrastructure, execute programming languages to host apps, less flexibility than IaaS.
+**SaaS(consume):** Finished products, managed by the service provider, easy to use as end user. Least flexibility. Examplees include Outlook anf Gmail.
 
 ![Computing Models](https://github.com/info-sec-guy/AWS/blob/master/Certs/AWS-Cloud-Practitioner/images/models.jpg)
+
+**Cloud Computing Deployments**
+**Cloud Deployment:** 100% of IT infrastructure on the cloud, all apps migrated to or created in the cloud
+
+**On-Premise/Private Cloud Deployment:** Use Virtualization to deploy resources in their on-premise data centers, looks like traditional IT infrastructure, resources cannot be accessed from the open internet
+
