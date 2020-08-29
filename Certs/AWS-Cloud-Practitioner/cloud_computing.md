@@ -16,3 +16,5 @@
 * **IaaS(host):** Control over the networking, security, servers, closest to having traditional on-premises data center. Examples include AWS, Azure, and GCP. 
 * **PaaS(build):** Deploy and manage applications without worry of underlying hardware infrastructure, execute programming languages to host apps, less flexibility than IaaS.
 * **SaaS(consume):** Finished products, managed by the service provider, easy to use as end user. Least flexibility. Examplees include Outlook anf Gmail.
+
+![Computing Models](https://github.com/info-sec-guy/AWS/blob/master/Certs/AWS-Cloud-Practitioner/images/models.jpg)
